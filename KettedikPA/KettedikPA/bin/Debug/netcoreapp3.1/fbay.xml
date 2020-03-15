@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Name>Undertale</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>3500</Price>
+    <Genres>
+      <string>rpg</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>true</_owned>
+  </Game>
+  <Game>
+    <Name>Minecraft</Name>
+    <_releaseYear>2009</_releaseYear>
+    <Price>7000</Price>
+    <Genres>
+      <string>sandbox</string>
+      <string>survival</string>
+      <string>adventure</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>GTA V</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>12000</Price>
+    <Genres>
+      <string>adventure</string>
+      <string>tps</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>The Elder Scrolls: Skyrim</Name>
+    <_releaseYear>2011</_releaseYear>
+    <Price>12500</Price>
+    <Genres>
+      <string>rpg</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Tom Clancy's: The Division</Name>
+    <_releaseYear>2016</_releaseYear>
+    <Price>12500</Price>
+    <Genres>
+      <string>tps</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Final Fantasy XV</Name>
+    <_releaseYear>2016</_releaseYear>
+    <Price>12500</Price>
+    <Genres>
+      <string>rpg</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Overwatch</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>7000</Price>
+    <Genres>
+      <string>fps</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>ARK: Survival Evolved</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>16000</Price>
+    <Genres>
+      <string>rpg</string>
+      <string>survival</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Assassin's Creed Odyssey</Name>
+    <_releaseYear>2018</_releaseYear>
+    <Price>20000</Price>
+    <Genres>
+      <string>stealth</string>
+      <string>adventure</string>
+      <string>open world</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Enter the Gungeon</Name>
+    <_releaseYear>2016</_releaseYear>
+    <Price>11500</Price>
+    <Genres>
+      <string>roguelike</string>
+      <string>manic shooter</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Diablo III</Name>
+    <_releaseYear>2012</_releaseYear>
+    <Price>6000</Price>
+    <Genres>
+      <string>hack and slash</string>
+      <string>dungeon drawl</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Rocket League</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>7000</Price>
+    <Genres>
+      <string>soprt-simulation</string>
+      <string>competitive</string>
+      <string>football</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>Red Dead Redemption 2</Name>
+    <_releaseYear>2018</_releaseYear>
+    <Price>20000</Price>
+    <Genres>
+      <string>adventure</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>MONSTER HUNTER: WORLD</Name>
+    <_releaseYear>2018</_releaseYear>
+    <Price>11500</Price>
+    <Genres>
+      <string>adventure</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <Name>The Witcher 3: Wild Hunt</Name>
+    <_releaseYear>2015</_releaseYear>
+    <Price>14000</Price>
+    <Genres>
+      <string>rpg</string>
+      <string>open world</string>
+    </Genres>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+</ArrayOfGame>
